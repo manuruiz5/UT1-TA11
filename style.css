@@ -17,3 +17,11 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+/*•	¿Los elementos p impares comparten una clase? 
+Si y se llama impares
+•	¿Los elementos div pares tienen IDs únicos? 
+Si y son denominados  segundo y cuarto
+•	¿El elemento número 3 tiene múltiples clases?
+No tiene una clase y un id
+*/
